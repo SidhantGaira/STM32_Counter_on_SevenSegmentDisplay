@@ -1,6 +1,6 @@
 Overview: 
 
-This project demonstrates basic GPIO control and application of functions & loops by making a counter a D1 digit of a 4 digit 7 segment display using STM32CubeIDE.
+This project demonstrates basic GPIO control and application of functions & arrays by making a counter a D1 digit of a 4 digit 7 segment display using STM32CubeIDE.
 
 Hardware Used :
 
@@ -45,7 +45,8 @@ GPIO configuration in STM32
 Understanding HAL functions
 Embedded project structure
 Multiplexing inside the display
-Loops
+Loops 
+arrays
 Funcitons
 
 License:
